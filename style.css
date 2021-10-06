@@ -1,1 +1,26 @@
+img {
+    width:270px;
+}
 
+body {
+    background-color:#2b3f61;
+}
+h1,h2,h3 {
+    color:white;
+}
+
+H1,h2,ol,h3 {
+    font-family: 'Caveat', cursive;
+}
+
+p {
+    font-family: 'Caveat', cursive;
+}
+
+p,ol {
+    color:#c7dcff;
+}
+
+body {
+    background-image: url('https://wallpapercave.com/wp/wp1829245.jpg');
+}
