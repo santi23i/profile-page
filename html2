@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+     <html>
+    <head>
+        <title>Midterm</title>
+        <link rel="stylesheet" href="{pagename}.css">
+    </head>
+     <body>
+        <div class="parent">
+        <div class="ID">
+            <h3 class="name">Miguel Santiago</h3>
+            <img src="https://d1tllkl2oxekzk.cloudfront.net/7299/img/2019_7299466944.jpg">
+        </div>
+        <div class="navigation">
+        
+            <div class="section2">
+        <button class="about">About</button>
+        <button class="Menu">Menu</button>
+        <button class="Orders">Orders</button>
+        <button class="Contact">Contact</button>
+        </div>
+        
+<div class="storyofm">
+    <h2>about me</h2>
+            <p>im called miguel santiago and im from puerto rico</p>                
+        </div>
+        </div>
+        </div>
+        
+        <div class="octopus">
+            <h2>Interest</h2>
+            <ol>
+                <li>Eat</li>
+                <li>Sleep</li>
+                <li>Play</li>
+                <li>Repeat</li>
+                
+            </ol>
+        </div>
+        
+        <div class="yauco">
+        <img class="town"src="https://i.ytimg.com/vi/10IfQtdYxBs/maxresdefault.jpg">
+        </div>
+         
+        <div class="number">
+            <p>Contact:773-202-LUNA</p>
+        </div>
+            
+        
+    </body>
+</html>
