@@ -1,0 +1,63 @@
+.name{
+    border:solid 5px;
+    position:absolute;
+    display:flex;    
+}
+.navigation{
+    display:flex;
+    justify-content: center;
+    font-size:12px;
+}   
+
+
+.parent{
+    display:flex;
+}
+
+.about{
+  width:50px; 
+  Height:25px;
+}
+
+.Menu{
+    height:25px;
+}
+
+.Orders{
+    height:25px;
+}
+
+.Contact{
+    height:25px;
+}
+
+.storyofm{
+    border:5px solid;
+}
+
+img{
+    width:250px;
+    height:250px;
+}
+
+div.octopus{
+   border: 5px solid;
+    padding:8px;
+    width:100px;
+   }
+
+div.yauco{
+   display:flex;
+    justify-content:flex-end;
+    position:relative;
+    top:-375px;
+    left:-375px;   
+}
+
+div.number{
+     border:solid 5px black;
+    position:relative;
+    right:-1100px;
+    width:180px;
+    top:-300px;
+}
